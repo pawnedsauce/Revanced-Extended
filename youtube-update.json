@@ -1,6 +1,6 @@
 {
-  "version": "v20.44.36 (patches: 5.46.0)",
-  "versionCode": 25,
-  "zipUrl": "https://github.com/pawnedsauce/Revanced-Extended/releases/download/25/youtube-revanced-magisk-v20.44.36-all.zip",
+  "version": "v20.51.38 (patches: 5.47.0)",
+  "versionCode": 26,
+  "zipUrl": "https://github.com/pawnedsauce/Revanced-Extended/releases/download/26/youtube-revanced-magisk-v20.51.38-all.zip",
   "changelog": "https://raw.githubusercontent.com/pawnedsauce/Revanced-Extended/update/build.md"
 }
